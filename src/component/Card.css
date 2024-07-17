@@ -1,0 +1,7 @@
+@media (width <= 770px) {
+    .image_check{
+        content-visibility:hidden;
+             
+    }
+    
+  }
